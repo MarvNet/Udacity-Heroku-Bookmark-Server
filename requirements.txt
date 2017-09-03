@@ -1,4 +1,1 @@
-requests
-request
-http.server
-urllib
+requests>=2.12
